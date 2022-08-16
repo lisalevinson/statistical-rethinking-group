@@ -18,3 +18,6 @@ We will be working through the 2nd edition of Richard McElreath's *Statistical R
 
 ## R Resources
 
+## Members Only
+
+[MCommunity Page](https://mcommunity.umich.edu/group/statistical-rethinking)
